@@ -2,6 +2,8 @@
 
 A Streamlit application that provides a user-friendly interface for testing the xAI Live Search API with fully configurable parameters.
 
+[Official xAI Live Search API Documentation](https://docs.x.ai/docs/guides/live-search)
+
 ## Features
 
 - Comprehensive interface for the xAI Live Search API
